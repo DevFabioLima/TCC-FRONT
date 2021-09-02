@@ -19,7 +19,7 @@
     "formik-material-ui": "^2.0.0-alpha.3",
     "gerador-validador-cpf": "^4.0.1",
     "history": "^4.10.1",
-    "immer": "^5.1.0",
+    "immer": "^9.0.6",
     "persist": "^0.2.7",
     "polished": "^3.4.2",
     "prop-types": "^15.7.2",
